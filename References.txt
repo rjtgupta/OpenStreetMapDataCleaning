@@ -1,0 +1,6 @@
+stackoverflow.com
+http://docs.python-cerberus.org/en/stable/
+https://www.ibm.com/developerworks/library/x-hiperfparse/index.html
+https://wiki.openstreetmap.org/wiki/Main_Page
+http://www.dofactory.com/sql/select-distinct
+https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md

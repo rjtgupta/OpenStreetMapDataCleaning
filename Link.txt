@@ -1,0 +1,7 @@
+Region: Seattle, Washington, United States of America
+
+Link:   https://www.openstreetmap.org/relation/237385
+
+Seattle is a major city in North-western United States in the state of Washington. It is the city where I currently reside at.
+It has various water bodies surrounding it and different features including various beaches, tall mountains which makes it an interesting site.
+This region is also close to the region of British Columbia in Canada and thus, there is a possibility of data mixup due to proximity of the regions.
